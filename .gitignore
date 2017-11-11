@@ -261,5 +261,4 @@ __pycache__/
 *.pyc
 
 # Ignore appsetings.json
-LoraWebUI/appsettings.json
-LoraWebUI/appsettings.Development.json
+MQTTBridge/appsettings.json
